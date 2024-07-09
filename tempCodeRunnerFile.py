@@ -1,0 +1,1 @@
+ in range(0,math.floor((windowSize*windowSize)/2
